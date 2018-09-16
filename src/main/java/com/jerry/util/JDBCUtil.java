@@ -42,7 +42,7 @@ public class JDBCUtil {
 
         if(statement!=null){
             try {
-                resultSet.close();
+                statement.close();
             } catch (SQLException e) {
                 e.printStackTrace();
             }
@@ -50,7 +50,7 @@ public class JDBCUtil {
 
         if(connection!=null){
             try {
-                resultSet.close();
+                connection.close();
             } catch (SQLException e) {
                 e.printStackTrace();
             }
