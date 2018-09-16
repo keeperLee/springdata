@@ -1,2 +1,2 @@
-# springdata
-这是一个很简单的项目，使用idea在maven的管理下学习springdata中的子模块JPA以及传统方式的JDBC.
+# springdata-JPA
+本项目，使用idea在maven的管理下学习springdata中的子模块JPA以及温故传统方式的JDBC和Spring-Jdbc访问数据库的方式。

@@ -1,4 +1,4 @@
-package com.jerry.util;
+package com.jerry;
 
 import org.junit.After;
 import org.junit.Before;
